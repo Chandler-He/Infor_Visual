@@ -1,9 +1,14 @@
 **INFSCI 2415 Information Visualization**
 Final Report
+
 GitHub: https://github.com/Chandler-He/Infor_Visual.git
+
 Name – Peilin He
+
 ID – 4447252
+
 Date – 11/28/2022
+
 Email – peh53@pitt.edu
 
 Cyber Security Experience Levels Salary Analyzation
